@@ -3,7 +3,6 @@
 from Point import Point
 from Force import Force
 
-# create a Point object with mass 1 and initial position (0, 0) and velocity (10, 10)
 point = Point(1, vx=10, vy=10)
 dt = 0.01
 q = 0.05
